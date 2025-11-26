@@ -206,25 +206,25 @@ const CC_CARDS = [
     title: "Maestría en Administración de la Construcción",
     meta: "Modalidad: ONLINE",
     href: "https://itc-ac.edu.mx/maestria-en-administracion-de-la-construccion/",
-    img:  "https://scontent.fjal2-1.fna.fbcdn.net/v/t39.30808-6/545915058_1249533717185659_8123400038498639725_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_ohc=EHqGwyFeUZwQ7kNvwGAFJ2b&_nc_oc=AdlpLZNFwB82q_XuNFrLI5gkabv_a7xRZ7gD4Joh0jlmfcZLhpxTsuIgxCP1UXj0vLZulIIhWj08_ggA9dC8ge5d&_nc_zt=23&_nc_ht=scontent.fjal2-1.fna&_nc_gid=ymsJyPMX6OgpgQ6fkSa_iA&oh=00_AfhsQRO9u7tJ2oM15GlT_l0ESzbGJ2X458D_MSqaEAIuuA&oe=691380D1"
+    img:  "https://i.pinimg.com/736x/4b/95/81/4b9581cd47f11be317d1e424312a2b49.jpg"
   },
   {
     title: "Maestría en construcción",
     meta: "Modalidad: ONLINE",
     href: "https://itc-ac.edu.mx/maestria-en-construccion/",
-    img:  "https://scontent.fjal2-1.fna.fbcdn.net/v/t39.30808-6/546160958_1249535323852165_8351244754762922673_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=127cfc&_nc_ohc=atlFhceBE24Q7kNvwHw23J8&_nc_oc=AdmfCyGbSibbB_YhcO73oyaVZikBEjOl_zmJRgbmJq2I2jmFYw1wZOOgdkULDjpccu9mlQRJYLzr48rJ7yFTrMI1&_nc_zt=23&_nc_ht=scontent.fjal2-1.fna&_nc_gid=NsYLnuc7-fyl2um-Zc_rFg&oh=00_AfgkCBDVn6l08X7GK1STJ75GiImvCFQCUx-l9fVTwBmnkw&oe=69135C3E"  
+    img:  "https://i.pinimg.com/736x/4a/b2/c4/4ab2c41162b1b922ad9b36152ca75b29.jpg"  
   },
   {
     title: "Maestría en Eficiencia Energética, Transporte y Almacenamiento de Hidrocarburos",
     meta: "Modalidad: ONLINE",
     href: "https://itc-ac.edu.mx/maestria-en-eficiencia-energetica-transporte-almacenamiento-hidrocarburos/",
-    img:  "https://scontent.fjal2-1.fna.fbcdn.net/v/t39.30808-6/544893323_1248000134005684_7576900647165111680_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_ohc=vBgfB8BXdwgQ7kNvwEzvVHP&_nc_oc=AdlIGik0Q1V89-3czlalmPHJjMpv20Ik1c9kmz99Hf1NJYLhAP9YKhm8qF2zt6qptG8zwJ5EdibR3vL1HYD4UjcP&_nc_zt=23&_nc_ht=scontent.fjal2-1.fna&_nc_gid=GPxaaRDTat1eHadIcql9nw&oh=00_AfiDgRKL5TfAM8uTJqDIlLMSIx6TsYiPe_hRw0RB89Hckg&oe=691384E5"
+    img:  "https://i.pinimg.com/736x/3e/0b/ab/3e0babd1d03f06028d5e9c35f0f9c133.jpg"
   },
   {
     title: "Maestría en Eficiencia y Sostenibilidad en Sistemas Energéticos",
     meta: "Modalidad: ONLINE",
     href: "https://itc-ac.edu.mx/maestria-en-eficiencia-y-sostenibilidad-en-sistemas-energeticos/",
-    img:  "https://scontent.fjal2-1.fna.fbcdn.net/v/t39.30808-6/543417815_1247999364005761_5183869219622237010_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_ohc=eaRdim_D_HYQ7kNvwEWc7lE&_nc_oc=AdnueAZIGDgXXKNf2OlQWpD6WMbt5HnU9l7aKaT0_xteckNfkG-y2aUOvNZMQ5j6bVBhifIERInvvCUI8yoNnAyH&_nc_zt=23&_nc_ht=scontent.fjal2-1.fna&_nc_gid=z5Yn2V1Yr0r2-XqcLTjPSg&oh=00_AfgPyQG34yGELa-7JsBxQfrrYaLcUuJKgLKhsJd89SbUpQ&oe=69137FD4"
+    img:  "https://i.pinimg.com/736x/7d/0d/8f/7d0d8f18cca411fc3d29a2bef858e0b0.jpg"
   }
 ];
 
